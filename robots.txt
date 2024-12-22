@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fm.junyent.org.es/sitemap.xml
